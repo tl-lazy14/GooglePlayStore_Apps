@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GooglePlayStore</string>
+    <string name="todo">TODO</string>
+    <string name="appImage" />
+    <string name="search">Search</string>
+    <string name="voiceIcon">TODO</string>
+    <string name="notificationIcon">TODO</string>
+    <string name="avatarImage">TODO</string>
+    <string name="appName">App Name</string>
+    <string name="rating">Rate</string>
+    <string name="appItem">App 1</string>
+    <string name="search_apps">Search apps</string>
+    <string name="ratingPoint">Rating</string>
+    <string name="app_image">app_image</string>
+    <string name="viber">Viber</string>
+</resources>
